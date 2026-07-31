@@ -30,14 +30,3 @@ Run project
 ./main
 ```
 
-## Authors
-
-- [Github](https://github.com/amr8644)
-- [Twitter](https://twitter.com/ashebo_amr)
-
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
